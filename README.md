@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maachi Aymen AKA Kraymis</h1>
 <h3 align="center">A Computer Science student at ESI Algiers and a Web Developer</h3>
 
-- 🌱 I’m currently learning **Machine Learning**
-
 - 📫 How to reach me **mm_maachi@esi.dz**
 
 - ⚡ Fun fact **I started coding because I figured it was easier than learning how to cook.**
